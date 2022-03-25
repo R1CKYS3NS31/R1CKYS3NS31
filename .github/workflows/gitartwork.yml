@@ -13,7 +13,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: jasineri
+            user_name: DERRICKSONNDAMBUKI
             # Text on contribution graph 
             text: SENSEI
        - uses: jasineri/simple-push-action@v1
