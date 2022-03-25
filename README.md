@@ -6,12 +6,13 @@
 
 ![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
 
-<a href="https://github.com/DERRICKSONNDAMBUKI/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15" />
-</a>
 <a href="https://github.com/DERRICKSONNDAMBUKI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true" />
 </a>
+<a href="https://github.com/DERRICKSONNDAMBUKI/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=10" />
+</a>
+
 
 <!---
 DERRICKSONNDAMBUKI/DERRICKSONNDAMBUKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
