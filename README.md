@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true" />
 </a>
 <a href="https://github.com/DERRICKSONNDAMBUKI/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=10&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15&theme=gruvbox_light" />
 </a>
 
 
