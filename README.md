@@ -7,10 +7,10 @@
 ![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
 
 <a href="https://github.com/DERRICKSONNDAMBUKI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_dark&count_private=true" />
 </a>
 <a href="https://github.com/DERRICKSONNDAMBUKI/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15&theme=dark"/>
 </a>
 
 
