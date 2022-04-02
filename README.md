@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![CI](https://github.com/DERRICKSONNDAMBUKI/sensei_task_app_hosting_repo/actions/workflows/main.yml/badge.svg)](https://github.com/DERRICKSONNDAMBUKI/)
 
-###[Developer Roadmap Guide](https://roadmap.sh/)
+[Developer Roadmap Guide](https://roadmap.sh/)
