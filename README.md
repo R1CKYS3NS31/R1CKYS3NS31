@@ -12,9 +12,7 @@
 ![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
 
 <a href="https://github.com/DERRICKSONNDAMBUKI">
-  <img align="center" ![google-it-support-certificate](https://user-images.githubusercontent.com/60259193/171154411-bbd2f0f7-556c-4a8a-a5d5-60d760edb2fb.png)
-
-       src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true"/>
 </a>
 <a href="https://github.com/DERRICKSONNDAMBUKI/">
   <img align="center" 
