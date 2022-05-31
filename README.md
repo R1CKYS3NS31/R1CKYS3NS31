@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on kotlin
 - 📫 How to reach me ...twitter: @ricky0five
 
+![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
 
 <strong>Google IT Support Professional</strong>
 [Google IT Support Professional](https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url)
 
-
-![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
+![https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url](https://user-images.githubusercontent.com/60259193/171154556-c2b0bef5-a09b-4672-a070-6aec91b24e12.png)
 
 <a href="https://github.com/DERRICKSONNDAMBUKI">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true"/>
