@@ -3,9 +3,11 @@
 - 🌱 I’m currently coding and developing in android(kotlin), react.js, node.js, express.js, python, django, kotlin, ktor, c, c++ ✨
 - 💞️ I’m looking to collaborate on kotlin
 - 📫 How to reach me ...twitter: @ricky0five
-<b>
+
+
+<strong>Google IT Support Professional</strong>
 [Google IT Support Professional](https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url)
-</b>
+
 ![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
 
 <a href="https://github.com/DERRICKSONNDAMBUKI">
