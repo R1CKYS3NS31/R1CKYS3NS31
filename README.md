@@ -8,10 +8,12 @@
 <strong>Google IT Support Professional</strong>
 [Google IT Support Professional](https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url)
 
+![https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url](https://user-images.githubusercontent.com/60259193/171154556-c2b0bef5-a09b-4672-a070-6aec91b24e12.png)
 ![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
 
 <a href="https://github.com/DERRICKSONNDAMBUKI">
-  <img align="center" 
+  <img align="center" ![google-it-support-certificate](https://user-images.githubusercontent.com/60259193/171154411-bbd2f0f7-556c-4a8a-a5d5-60d760edb2fb.png)
+
        src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true"/>
 </a>
 <a href="https://github.com/DERRICKSONNDAMBUKI/">
@@ -27,3 +29,6 @@ You can click the Preview link to take a look at your changes.
 [![CI](https://github.com/DERRICKSONNDAMBUKI/sensei_task_app_hosting_repo/actions/workflows/main.yml/badge.svg)](https://github.com/DERRICKSONNDAMBUKI/)
 
 [Developer Roadmap Guide](https://roadmap.sh/)
+
+
+
