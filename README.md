@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 
 [Developer Roadmap Guide](https://roadmap.sh/)
 
-![https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url](https://user-images.githubusercontent.com/60259193/171154556-c2b0bef5-a09b-4672-a070-6aec91b24e12.png)
+
