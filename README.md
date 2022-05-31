@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on kotlin
 - 📫 How to reach me ...twitter: @ricky0five
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ab617822-582c-46fd-a973-039b9dc29ee5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
 
 <a href="https://github.com/DERRICKSONNDAMBUKI">
