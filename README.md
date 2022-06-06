@@ -14,7 +14,7 @@
 </a>
 <a href="https://github.com/DERRICKSONNDAMBUKI/">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15&theme=gruvbox_light" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15&" />
 </a>
 
 ![https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url](https://user-images.githubusercontent.com/60259193/171154556-c2b0bef5-a09b-4672-a070-6aec91b24e12.png)
