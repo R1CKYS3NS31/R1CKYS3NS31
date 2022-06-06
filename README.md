@@ -10,11 +10,11 @@
 [Google IT Support Professional](https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url)
 
 <a href="https://github.com/DERRICKSONNDAMBUKI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=gruvbox_light&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DERRICKSONNDAMBUKI&show_icons=true&theme=moltack&count_private=true"/>
 </a>
 <a href="https://github.com/DERRICKSONNDAMBUKI/">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15&theme=vision-friendly-dark" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DERRICKSONNDAMBUKI&layout=compact&langs_count=15&theme=moltack" />
 </a>
 
 ![https://www.credly.com/badges/ab617822-582c-46fd-a973-039b9dc29ee5/public_url](https://user-images.githubusercontent.com/60259193/171154556-c2b0bef5-a09b-4672-a070-6aec91b24e12.png)
