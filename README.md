@@ -24,6 +24,7 @@ DERRICKSONNDAMBUKI/DERRICKSONNDAMBUKI is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 [![CI](https://github.com/DERRICKSONNDAMBUKI/sensei_task_app_hosting_repo/actions/workflows/main.yml/badge.svg)](https://github.com/DERRICKSONNDAMBUKI/)
+![GIT](https://user-images.githubusercontent.com/60259193/175034841-986a1f15-8d09-41e6-8eb2-34240c789407.png)
 
 [Developer Roadmap Guide](https://roadmap.sh/)
 
