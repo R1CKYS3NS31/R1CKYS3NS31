@@ -27,5 +27,5 @@ You can click the Preview link to take a look at your changes.
 [![GIT](https://user-images.githubusercontent.com/60259193/175034841-986a1f15-8d09-41e6-8eb2-34240c789407.png)](https://github.com/DERRICKSONNDAMBUKI/)
 
 [Developer Roadmap Guide](https://roadmap.sh/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/147173a1-5586-4e68-b73c-cdc1de2158b7/deploy-status)](https://app.netlify.com/sites/sensei-tasks/deploys)
+
 [![CI](https://github.com/DERRICKSONNDAMBUKI/sensei_task_app_hosting_repo/actions/workflows/main.yml/badge.svg)](https://github.com/DERRICKSONNDAMBUKI/)
