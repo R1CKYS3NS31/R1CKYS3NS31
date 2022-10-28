@@ -29,3 +29,5 @@ You can click the Preview link to take a look at your changes.
 [Developer Roadmap Guide](https://roadmap.sh/)
 
 [![CI](https://github.com/DERRICKSONNDAMBUKI/sensei_task_app_hosting_repo/actions/workflows/main.yml/badge.svg)](https://github.com/DERRICKSONNDAMBUKI/)
+![canvas](https://user-images.githubusercontent.com/60259193/198583210-d6a92d5b-3920-4f41-9ec7-7078aada12f6.png)
+
