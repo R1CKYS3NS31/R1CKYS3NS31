@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RICKY_SENSEI✨
 - 👀 I’m interested in coding and qualified for any IT Job
 - 🌱 I’m currently coding and developing in android(kotlin), react.js, node.js, express.js, python, django, kotlin, ktor websites, c, c++ ✨
-- 💞️ I’m looking to collaborate on kotlin
+- 💞️ I’m looking to collaborate on kotlin projects and N
 - 📫 How to reach me ...twitter: @ricky0five
 
 ![https://github.com/DERRICKSONNDAMBUKI/](gitartwork.svg)
