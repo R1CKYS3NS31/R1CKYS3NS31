@@ -27,7 +27,7 @@
   <br/><br/>
 
   <!-- Support Image / Canvas -->
-  <img src="https://user-images.githubusercontent.com/60259193/198583210-d6a92d5b-3920-4f41-9ec7-7078aada12f6.png" width="100%" />
+ <!--  <img src="https://user-images.githubusercontent.com/60259193/198583210-d6a92d5b-3920-4f41-9ec7-7078aada12f6.png" width="100%" /> -->
 
   <p>
     <a href="https://roadmap.sh/"><b>🚀 Developer Roadmap Guide</b></a>
